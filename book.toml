@@ -1,0 +1,6 @@
+[book]
+authors = ["Niklas Cathor"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Guitar stuff"
